@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Insightly — Business analytics, made clear",
-  description: "Understand your business with live performance metrics and AI-generated reports.",
+  description: "Explore sample business metrics, export CSV data, and generate AI reports.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
